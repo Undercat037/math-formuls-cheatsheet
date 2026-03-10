@@ -26,6 +26,13 @@
 
 > Є ідеї які формули або розділи додати? Пиши у розділі **Discussions**.
 
+---
 
+### Приклади структури
+
+![Structure](examples/Structure.png)
+![Algebra-block](examples/Algebra.png)
+![Geometry-block](examples/Geometry.png)
+![Physycs-block](examples/Physycs.png)
 ------
 © Undercat037 — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Некомерційне використання дозволено.
