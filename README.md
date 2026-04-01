@@ -43,6 +43,6 @@ git pull
 ![Structure](examples/Structure.png)
 ![Algebra-block](examples/Algebra.png)
 ![Geometry-block](examples/Geometry.png)
-![Physycs-block](examples/Physycs.png)
+![Physycs-block](examples/Physics.png)
 ------
 © Undercat037 — [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Некомерційне використання дозволено.
